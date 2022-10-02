@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/natasha-h-s/AnchorHTMLCrawler/pkg/util"
+	"github.com/natasha-h-s/WebCrawler/pkg/util"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/natasha-h-s/AnchorHTMLCrawler
+module github.com/natasha-h-s/WebCrawler
 
 go 1.18
 
